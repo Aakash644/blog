@@ -1,0 +1,27 @@
+.container-fluid{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap; 
+    background-color: #FDD36A;  
+    height:auto;
+} 
+.main{
+    margin-left: 5%; 
+    margin-right: 5%; 
+    padding:10px;
+}
+footer{
+    margin-top: 5%; 
+    padding:10px; 
+} 
+.row  h5{
+    list-style: none; 
+    text-decoration: none;
+} 
+.main h1{
+    text-align: center;
+} 
+.main{
+    padding:10px;
+} 
+
